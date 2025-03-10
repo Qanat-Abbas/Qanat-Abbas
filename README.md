@@ -50,3 +50,6 @@
 </p>
 
 ## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=qanat-abbas&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
