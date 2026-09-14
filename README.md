@@ -2,7 +2,7 @@
 <h3 align="center">AI Researcher | Explainable & Agentic ML for Healthcare and Mental Health</h3>
 
 <p align="center">
-  <img src="https://dribbble.com/shots/4171367-Coding-Freak" width="400" alt="AI Animation">
+  <img src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" width="400" alt="AI Animation">
 </p>
 
 ## 🌟 About Me
