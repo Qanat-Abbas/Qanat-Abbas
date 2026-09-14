@@ -2,16 +2,16 @@
 <h3 align="center">AI Researcher | Explainable & Agentic ML for Healthcare and Mental Health</h3>
 
 <p align="center">
-  <img src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif" width="400" alt="AI Animation">
+  <img src="https://dribbble.com/shots/4171367-Coding-Freak" width="400" alt="AI Animation">
 </p>
 
 ## 🌟 About Me
-- 🎓 B.S. Artificial Intelligence, *COMSATS University Islamabad* (CGPA 3.89/4.00)
-- 🔬 Currently a *MITACS Globalink Research Intern* at the **Boursalie Digital Health AI Lab**, Dept. of Biomedical Engineering, University of Calgary
-- 🧠 Building **Cardea**, an 8-module explainable clinical decision-support system for cardiovascular care, including an LLM-based, RAG-grounded conversational agent
+- 🎓 Bachelor of Science in Artificial Intelligence, *COMSATS University Islamabad* (CGPA 3.90/4.00)
+- 🔬 Currently a *MITACS Globalink Research Intern* at the **Boursalie Digital Health AI Lab**, Dept. of Biomedical Engineering, University of Calgary, Canada
+- 🧠 Building **Cardea**, an explainable clinical decision-support system for cardiovascular care, including an LLM-based, RAG-grounded conversational agent
 - 📄 4 publications (published/accepted/under review) in AI, health informatics, and applied ML
 - 🎤 Attendee, **CCAIM Machine Learning for Healthcare Summer School 2026**, University of Cambridge
-- 🤝 Vice President, **COMSATS Artificial Intelligence Society** (300+ members)
+- 🤝 Vice President, **COMSATS Artificial Intelligence Society** (500+ members)
 - 💬 Ask me about explainable AI, causal/agentic ML, and clinical or mental-health decision support
 - 🧭 *"The path to innovative AI runs through the intelligence you build in yourself first."*
 
@@ -34,10 +34,10 @@
 </p>
 
 ## 🔬 Featured Research & Projects
-- 🧠 **[Compulysis](https://github.com/Qanat-Abbas/Compulysis-OCD-Risk-Analyzer)** — Explainable OCD risk screening, 118 participants, 93% LOOCV accuracy, SHAP-based interpretability. *Manuscript submitted, Journal of Medical Systems (Springer Nature).*
-- 👂 **[HearSightAI](https://github.com/Qanat-Abbas/HearSightAI-Explainable-Deep-Learning-for-Audiogram-Based-Hearing-Loss-Severity-Classification)** — Explainable audiogram-based hearing-loss classification with Grad-CAM interpretability.
-- 💊 **[Prescrypt](https://github.com/Qanat-Abbas/Prescrypt---Handwritten-Medicine-Recognition-with-Drug-Information-Retrieval)** — Handwritten medicine recognition paired with drug-information retrieval.
-- ⚙️ **[Self-Healing MLOps Pipeline](https://github.com/Qanat-Abbas/selfhealing-mlops-FA23-BAI-056)** — Production-grade CI/CD deployment with automated rollback on model degradation.
+- 🧠 **[Compulysis](https://github.com/Qanat-Abbas/Compulysis-OCD-Risk-Analyzer)**, Explainable OCD risk screening, 118 participants, 93% LOOCV accuracy, SHAP-based interpretability. *Manuscript submitted, Journal of Medical Systems (Springer Nature).*
+- 👂 **[HearSightAI](https://github.com/Qanat-Abbas/HearSightAI-Explainable-Deep-Learning-for-Audiogram-Based-Hearing-Loss-Severity-Classification)**, Explainable audiogram-based hearing-loss classification with Grad-CAM interpretability.
+- 💊 **[Prescrypt](https://github.com/Qanat-Abbas/Prescrypt---Handwritten-Medicine-Recognition-with-Drug-Information-Retrieval)**, Handwritten medicine recognition paired with drug-information retrieval.
+- ⚙️ **[Self-Healing MLOps Pipeline](https://github.com/Qanat-Abbas/selfhealing-mlops-FA23-BAI-056)**, Production-grade CI/CD deployment with automated rollback on model degradation.
 
 ## 📊 GitHub Stats
 <p align="center">
